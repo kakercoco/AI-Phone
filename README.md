@@ -24,9 +24,3 @@ npm run build --report
 如图：
 ![demo](https://panjiachen.github.io/images/element-cdn.png)
 
-**[具体代码](https://github.com/PanJiaChen/vueAdmin-template/commit/746aff560932704ae821f82f10b8b2a9681d5177)**
-
-**[对应分支](https://github.com/PanJiaChen/vueAdmin-template/tree/element-ui-cdn)**
-
-## License
-[MIT](https://github.com/PanJiaChen/vueAdmin-template/blob/master/LICENSE) license.
